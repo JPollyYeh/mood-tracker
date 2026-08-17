@@ -33,4 +33,8 @@ No external packages are required.
    ```bash
    python "today mood v 1.0.0.01.py"
 
-   — generated with chatgpt
+This version doesn’t pretend the personality buttons are a full quiz or that the unfinished tabs already work. But it also properly recognizes that you made a functioning GUI that accepts input, writes dated data to two CSV files, and gives the user feedback—which is absolutely a real beginner project.
+
+[View the mood-tracker repository](https://github.com/JPollyYeh/mood-tracker)
+
+-- generated with chatgpt
